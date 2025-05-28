@@ -1,0 +1,7 @@
+{
+  "name": "ionic-notification-tool",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

@@ -3,5 +3,12 @@
   "integrations": {
     "capacitor": {}
   },
-  "type": "vue-vite"
+  "type": "vue-vite",
+  "appId": "com.shawn.ionicnotificationtool",
+  "appName": "Ionic Notification Tool",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
 }
+
